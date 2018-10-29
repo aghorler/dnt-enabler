@@ -1,4 +1,4 @@
-## WebRTC Leak Prevent
+## Do Not Track (DNT) Enabler
 
 **Version 1.0 | October 29 2018**
 
@@ -8,7 +8,7 @@ Enable sending of the Do Not Track (DNT) request header using a Chrome extension
 
 #### Privacy
 
-WebRTC Leak Prevent does not collect any user data. 
+Do Not Track (DNT) Enabler does not collect any user data. 
 
 The extension is hosted entirely on GitHub and the Chrome Web Store. These services may independently collect user data.
 
